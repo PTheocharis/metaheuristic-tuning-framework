@@ -15,18 +15,6 @@ The study applies Bayesian Hyperparameter Optimization methods to tune a **Genet
 Instead of relying on manually selected parameter combinations, the Genetic Algorithm is treated as a **black-box optimization problem**, allowing AutoML frameworks to search for improved configurations automatically.
 
 ---
-## Key Research Idea
-Traditional optimization research often focuses on improving the optimization algorithm itself
-
-This work explores another direction:
--Instead of manually designing the best algorithm configuration, allow automated optimization methods to discover effective configurations.
-
-This connects Operations Research with modern approaches from;
--Automated Machine Learning
--Bayesian Optimization
--Algorithm Configuration
--Intelligent Decision Support
----
 ## Research Objectives
 
 The main objectives of this work were to:
